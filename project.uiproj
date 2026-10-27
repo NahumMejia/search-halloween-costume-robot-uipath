@@ -1,0 +1,6 @@
+{
+  "Name": "Search Costume Halloween Robot",
+  "ProjectType": "Process",
+  "Description": "Search a Costume for Halloween",
+  "MainFile": "Main.xaml"
+}
